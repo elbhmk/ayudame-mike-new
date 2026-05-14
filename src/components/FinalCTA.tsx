@@ -34,12 +34,10 @@ export default function FinalCTA() {
         <div className="flex flex-col sm:flex-row gap-3.5 justify-center">
           <a
             href={`tel:${tCommon('phoneRaw')}`}
-            className="inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full font-semibold text-[15px] text-bg transition-all hover:-translate-y-0.5"
+            className="gold-pulse inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full font-semibold text-[15px] text-bg transition-all hover:-translate-y-0.5"
             style={{
               background: 'linear-gradient(135deg, rgba(255, 199, 87, 0.95), rgba(255, 167, 38, 0.95))',
               backdropFilter: 'blur(20px) saturate(180%)',
-              boxShadow:
-                'inset 0 0 0 1px rgba(255, 255, 255, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 10px 40px -8px rgba(255, 199, 87, 0.55), 0 0 60px -10px rgba(255, 199, 87, 0.3)',
             }}
           >
             <PhoneIcon size={15} />
@@ -49,12 +47,10 @@ export default function FinalCTA() {
             href={tCommon('whatsappLink')}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full font-semibold text-[15px] text-white transition-all hover:-translate-y-0.5"
+            className="wa-pulse inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full font-semibold text-[15px] text-white transition-all hover:-translate-y-0.5"
             style={{
               background: 'linear-gradient(135deg, rgba(37, 211, 102, 0.95), rgba(32, 189, 90, 0.95))',
               backdropFilter: 'blur(20px) saturate(180%)',
-              boxShadow:
-                'inset 0 0 0 1px rgba(255, 255, 255, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 10px 40px -8px rgba(37, 211, 102, 0.5)',
             }}
           >
             <WhatsAppIcon size={15} />
