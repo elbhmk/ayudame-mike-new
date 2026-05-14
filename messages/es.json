@@ -25,7 +25,7 @@
     "titleStart": "Te Conectamos con",
     "titleAccent": "Abogados Reales",
     "titleEnd": "en New York",
-    "subtitle": "Te ayudamos a encontrar abogados con licencia que pueden revisar tu caso. Conexión rápida con firmas de lesiones personales en los 4 condados."
+    "subtitle": "Somos tu conexión directa con abogados líderes en la ciudad, recuperando beneficios y esperanza para nuestra comunidad."
   },
   "About": {
     "text": "Somos {brand}. Cuando algo malo te pasa en New York, no tienes que enfrentarlo solo. Hablamos tu idioma, escuchamos tu caso, y te conectamos con un abogado real que puede ayudarte.",
@@ -55,17 +55,17 @@
     "carAccidents": {
       "name": "Accidentes de Carro",
       "short": "Te conectamos con abogados que defienden a víctimas de accidentes vehiculares en New York.",
-      "long": "Si usted o un ser querido ha sido víctima de un accidente de carro en New York, lo conectamos con abogados con licencia y experiencia luchando contra las compañías de seguros. Ellos manejan el proceso legal para que usted se enfoque en su recuperación. Muchos abogados no cobran hasta ganar el caso."
+      "long": "Si usted o un ser querido ha sido víctima de un accidente de carro, te conectamos con abogados que brindan opciones médicas, arreglo vehicular, y pelean por su caso para hacer de este accidente una situación mejor."
     },
     "workAccidents": {
       "name": "Accidentes Laborales",
       "short": "Te conectamos con abogados que defienden los derechos de los trabajadores lesionados.",
-      "long": "Las lesiones en el trabajo pueden ser devastadoras. Ya sea en construcción, fábricas, restaurantes u oficinas, usted tiene derechos. Lo conectamos con abogados que pueden ayudarle a presentar su reclamo."
+      "long": "Las lesiones en construcción pueden destruir vidas, te conectamos con abogados que van a respaldarte hasta ganar tu caso."
     },
     "medicalMalpractice": {
       "name": "Mala Práctica Médica",
       "short": "Te conectamos con abogados especializados en casos de negligencia médica.",
-      "long": "Cuando los profesionales médicos cometen errores, las consecuencias pueden ser graves. Lo conectamos con abogados que investigan a fondo cada caso y trabajan con expertos médicos para construir un caso sólido."
+      "long": "Si sufrió negligencia médica o un profesional de la salud lo perjudicó por un error, te conectamos con abogados especializados que pelean por ganar su caso y devolverle el bienestar."
     },
     "slipAndFall": {
       "name": "Caídas (Slip & Fall)",
