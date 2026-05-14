@@ -91,12 +91,10 @@ export default function Nav() {
           </button>
           <a
             href={`tel:${tCommon('phoneRaw')}`}
-            className="inline-flex items-center gap-2 px-3.5 md:px-5 py-2 md:py-2.5 rounded-full font-semibold text-xs md:text-sm text-bg transition-all hover:-translate-y-px"
+            className="gold-pulse-sm inline-flex items-center gap-2 px-3.5 md:px-5 py-2 md:py-2.5 rounded-full font-semibold text-xs md:text-sm text-bg transition-all hover:-translate-y-px"
             style={{
               background: 'linear-gradient(135deg, rgba(255, 199, 87, 0.95), rgba(255, 167, 38, 0.95))',
               backdropFilter: 'blur(10px) saturate(180%)',
-              boxShadow:
-                'inset 0 0 0 1px rgba(255, 255, 255, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 6px 24px -4px rgba(255, 199, 87, 0.5)',
             }}
           >
             <PhoneIcon size={13} />
