@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { PhoneIcon, WhatsAppIcon } from './icons';
+import WhatsAppFloat from './WhatsAppFloat';
 
 export default function Footer() {
   const tFooter = useTranslations('Footer');
@@ -19,6 +20,9 @@ export default function Footer() {
           </p>
         </div>
       </footer>
+
+      {/* Desktop floating WhatsApp */}
+      <WhatsAppFloat />
 
       {/* Mobile sticky CTA */}
       <div className="md:hidden fixed bottom-3 left-3 right-3 z-40 flex gap-2">
