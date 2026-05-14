@@ -1,0 +1,245 @@
+{
+  "Common": {
+    "phone": "(347) 526-1359",
+    "phoneRaw": "+13475261359",
+    "whatsappLink": "https://api.whatsapp.com/send?phone=13475261359&text=Hello%2C%20I%20need%20help%20with%20my%20case.",
+    "callButton": "Call",
+    "whatsapp": "WhatsApp",
+    "freeConsultation": "Free Consultation",
+    "freeConsultationShort": "Free Consult",
+    "online247": "Connecting you with real attorneys · 24/7",
+    "visitSite": "Visit site",
+    "learnMore": "Learn more",
+    "back": "Back",
+    "yearsServing": "Years Serving the Community"
+  },
+  "Nav": {
+    "howItWorks": "How it works",
+    "services": "Services",
+    "attorneys": "Attorneys",
+    "coverage": "Coverage",
+    "faq": "FAQ",
+    "about": "About"
+  },
+  "Hero": {
+    "titleStart": "We Connect You with",
+    "titleAccent": "Real Attorneys",
+    "titleEnd": "in New York",
+    "subtitle": "We help you find licensed attorneys who can review your case. Fast connection with personal injury firms across all 4 boroughs."
+  },
+  "About": {
+    "text": "We are {brand}. When something bad happens to you in New York, you don't have to face it alone. We speak your language, we listen to your case, and we connect you with a real attorney who can help.",
+    "brandHighlight": "Ayúdame Mike"
+  },
+  "Stats": {
+    "recovered": "Recovered by Our Allied Attorneys",
+    "connected": "People Connected",
+    "years": "Years Serving the Community"
+  },
+  "HowItWorks": {
+    "eyebrow": "How It Works",
+    "title": "Three steps. One call.",
+    "subtitle": "No paperwork. No commitment. No hassle.",
+    "step1Title": "Call us",
+    "step1Desc": "Dial (347) 526-1359 or message us on WhatsApp. We're available 24/7 in Spanish or English.",
+    "step2Title": "We evaluate your case",
+    "step2Desc": "We listen to what happened. No judgment, no pressure. We identify the right type of attorney for you.",
+    "step3Title": "We connect you with the right firm",
+    "step3Desc": "We put you in touch with a licensed New York attorney who specializes in your type of case."
+  },
+  "Services": {
+    "eyebrow": "Types of Cases",
+    "title": "We connect you based on your situation",
+    "subtitle": "We connect you with attorneys specialized in these areas",
+    "viewAll": "View all services",
+    "carAccidents": {
+      "name": "Car Accidents",
+      "short": "We connect you with attorneys who defend car accident victims in New York.",
+      "long": "If you or a loved one has been a victim of a car accident in New York, we connect you with licensed attorneys experienced in fighting insurance companies. They handle the legal process so you can focus on your recovery. Many attorneys don't charge until they win the case."
+    },
+    "workAccidents": {
+      "name": "Work Accidents",
+      "short": "We connect you with attorneys who defend the rights of injured workers.",
+      "long": "Workplace injuries can be devastating. Whether construction, factories, restaurants or offices — you have rights. We connect you with attorneys who can help you file your claim."
+    },
+    "medicalMalpractice": {
+      "name": "Medical Malpractice",
+      "short": "We connect you with attorneys specialized in medical negligence cases.",
+      "long": "When medical professionals make mistakes, the consequences can be severe. We connect you with attorneys who thoroughly investigate each case and work with medical experts to build a strong case."
+    },
+    "slipAndFall": {
+      "name": "Slip & Fall",
+      "short": "We connect you with attorneys for accidents caused by dangerous conditions on properties.",
+      "long": "Falls caused by wet floors, broken sidewalks, dangerous stairs or poor lighting are more common than you think. We connect you with attorneys who can help you present your case."
+    },
+    "liens": {
+      "name": "Liens",
+      "short": "We connect you with attorneys experienced in medical and legal lien management.",
+      "long": "Medical and legal liens can complicate your case. We connect you with attorneys who negotiate with hospitals, doctors and insurers to handle these liens properly."
+    }
+  },
+  "Attorneys": {
+    "eyebrow": "Allied Attorneys",
+    "title": "Meet the firms we work with",
+    "subtitle": "Licensed firms with proven experience in personal injury",
+    "viewAll": "View all attorneys",
+    "gabriel": {
+      "name": "Gabriel Law",
+      "role": "Personal Injury · ES · EN · RU · KO",
+      "tag": "$500M+ Recovered",
+      "bio": "Leading personal injury firm in New York with over $500 million recovered for their clients. Multilingual team serving in Spanish, English, Russian and Korean.",
+      "specs": ["Auto", "Slip & Fall", "Construction"]
+    },
+    "koval": {
+      "name": "Koval & Associates",
+      "role": "Mark I. Koval, Esq. · Brooklyn Law · ES · EN",
+      "tag": "No Fee Until We Win",
+      "bio": "Led by Mark I. Koval, Esq. (Brooklyn Law). Personal attention on every case with a no-fee-until-we-win policy.",
+      "specs": ["Auto", "Slip & Fall", "Injury"]
+    },
+    "tantleff": {
+      "name": "Tantleff & Kreinces",
+      "role": "Medical Malpractice · Brooklyn & Mineola · EN",
+      "tag": "30+ Years of Experience",
+      "bio": "Over 30 years of experience in medical malpractice. Offices in Brooklyn and Mineola handling complex medical negligence cases.",
+      "specs": ["Medical Malpractice", "Premises", "Products"]
+    },
+    "guzman": {
+      "name": "Guzman & Miller",
+      "role": "Workers Comp & Disability · ES · EN",
+      "tag": "Long Island Leaders",
+      "bio": "Leaders in workers compensation and Social Security Disability in Long Island. Bilingual Spanish/English service.",
+      "specs": ["Workers Comp", "SS Disability", "Construction"]
+    }
+  },
+  "Coverage": {
+    "eyebrow": "Coverage",
+    "title": "We Serve All of New York",
+    "subtitle": "Local presence in all 4 main boroughs",
+    "viewAll": "View all areas",
+    "manhattan": {
+      "name": "Manhattan",
+      "neighborhoods": "Midtown · Harlem · Washington Heights · Lower East Side",
+      "long": "Offices and allied attorneys with active presence in the heart of Manhattan. We handle cases in Midtown, Harlem, Lower East Side, Washington Heights and all Manhattan communities."
+    },
+    "brooklyn": {
+      "name": "Brooklyn",
+      "neighborhoods": "Sunset Park · Bushwick · Williamsburg · Bay Ridge",
+      "long": "We serve all Brooklyn communities including Sunset Park, Bushwick, Williamsburg, Bay Ridge and more. Spanish service available."
+    },
+    "queens": {
+      "name": "Queens",
+      "neighborhoods": "Jackson Heights · Corona · Flushing · Astoria · Jamaica",
+      "long": "Queens is the most diverse borough in the world, and we speak your language. We serve Jackson Heights, Corona, Flushing, Astoria, Jamaica and all Queens communities."
+    },
+    "bronx": {
+      "name": "Bronx",
+      "neighborhoods": "Mott Haven · Fordham · Hunts Point · Riverdale",
+      "long": "Strong presence in the Bronx. We serve Mott Haven, Fordham, Hunts Point, Riverdale and all Bronx communities."
+    }
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What our callers say",
+    "items": [
+      {
+        "text": "After my car accident, I didn't know what to do. Ayúdame Mike quickly connected me with an attorney who guided me through every step.",
+        "author": "María G.",
+        "case": "Car Accident — Brooklyn"
+      },
+      {
+        "text": "They connected me with an excellent attorney in record time. The process was easy and fast.",
+        "author": "Carlos R.",
+        "case": "Work Accident — Queens"
+      },
+      {
+        "text": "Thanks to Ayúdame Mike I found a specialized attorney for my medical malpractice case. Highly recommended.",
+        "author": "Ana M.",
+        "case": "Medical Malpractice — Manhattan"
+      },
+      {
+        "text": "I had a slip and fall case and didn't know where to turn. Ayúdame Mike connected me with an attorney who understood my situation.",
+        "author": "José D.",
+        "case": "Slip & Fall — Bronx"
+      },
+      {
+        "text": "Professional, attentive, fast. I felt heard from the very first moment.",
+        "author": "Luz P.",
+        "case": "Work Accident — Manhattan"
+      }
+    ]
+  },
+  "FAQ": {
+    "eyebrow": "Frequently Asked Questions",
+    "title": "Have questions? We've got answers.",
+    "items": [
+      {
+        "q": "How much does it cost to call Ayúdame Mike?",
+        "a": "Nothing. Our connection service is completely free and with no commitment. We simply put you in touch with an allied attorney to evaluate your case."
+      },
+      {
+        "q": "If I call, do I have to hire an attorney?",
+        "a": "No. The call and initial evaluation are just to understand your situation. You freely decide whether to proceed with the attorney we connect you with."
+      },
+      {
+        "q": "How long do I have to file after an accident?",
+        "a": "New York has legal deadlines for filing depending on the type of case. For car accidents and slip & fall cases generally 3 years apply, but each case is different. The faster you call, the better an attorney can act."
+      },
+      {
+        "q": "Do you speak Spanish?",
+        "a": "Yes. We serve you completely in Spanish. We also work with allied attorney firms that offer Spanish-speaking service so your case is handled in your language."
+      },
+      {
+        "q": "What if the accident was partially my fault?",
+        "a": "In New York you can still file a claim even if you bear partial responsibility. Call us so an attorney can evaluate your specific case."
+      },
+      {
+        "q": "Is Ayúdame Mike a law firm?",
+        "a": "No. Ayúdame Mike is not a law firm. We are a bridge that connects you with real attorney firms licensed in the State of New York who can evaluate and handle your case."
+      }
+    ]
+  },
+  "Urgency": {
+    "eyebrow": "Time Matters",
+    "titleStart": "In New York you have a",
+    "titleAccent": "limited window",
+    "titleEnd": "to file your case.",
+    "text": "New York law sets strict deadlines for filing after an accident. Every day that passes can affect your case. Don't wait — call us today and let an attorney evaluate your situation."
+  },
+  "FinalCTA": {
+    "titleStart": "Ready to talk to a",
+    "titleAccent": "real attorney",
+    "titleEnd": "?",
+    "subtitle": "One call. No paperwork. No commitment."
+  },
+  "Footer": {
+    "disclaimer": "Important notice: Ayúdame Mike is not a law firm and Mike is not a licensed attorney in the State of New York. Our sole service is to quickly connect you with real, licensed and experienced attorneys who can evaluate your accident, personal injury or other legal matter. We do not provide legal advice or representation. Results vary by case and are not guaranteed. Contacting us by phone, message or form does not create an attorney-client relationship; that relationship is only established when you sign an agreement directly with the attorney.",
+    "copyright": "© 2026 Ayúdame Mike. All rights reserved."
+  },
+  "Pages": {
+    "services": {
+      "title": "Types of Cases We Handle",
+      "subtitle": "We connect you with attorneys specialized in your type of case. Select one to learn more."
+    },
+    "attorneys": {
+      "title": "Allied Attorneys",
+      "subtitle": "Licensed firms with proven experience in personal injury in New York."
+    },
+    "coverage": {
+      "title": "Coverage Across New York",
+      "subtitle": "Local presence in all 4 main boroughs. Select your area."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know before calling."
+    },
+    "about": {
+      "title": "About Ayúdame Mike",
+      "subtitle": "Who we are and why we do what we do."
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Three steps. One call. No hassle."
+    }
+  }
+}

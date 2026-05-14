@@ -1,0 +1,245 @@
+{
+  "Common": {
+    "phone": "(347) 526-1359",
+    "phoneRaw": "+13475261359",
+    "whatsappLink": "https://api.whatsapp.com/send?phone=13475261359&text=Hola%2C%20necesito%20ayuda%20con%20mi%20caso.",
+    "callButton": "Llamar",
+    "whatsapp": "WhatsApp",
+    "freeConsultation": "Consulta Gratuita",
+    "freeConsultationShort": "Consulta Gratis",
+    "online247": "Te conectamos con abogados reales · 24/7",
+    "visitSite": "Visitar sitio",
+    "learnMore": "Saber más",
+    "back": "Volver",
+    "yearsServing": "Años Sirviendo a la Comunidad"
+  },
+  "Nav": {
+    "howItWorks": "Cómo funciona",
+    "services": "Servicios",
+    "attorneys": "Abogados",
+    "coverage": "Cobertura",
+    "faq": "Preguntas",
+    "about": "Sobre"
+  },
+  "Hero": {
+    "titleStart": "Te Conectamos con",
+    "titleAccent": "Abogados Reales",
+    "titleEnd": "en New York",
+    "subtitle": "Te ayudamos a encontrar abogados con licencia que pueden revisar tu caso. Conexión rápida con firmas de lesiones personales en los 4 condados."
+  },
+  "About": {
+    "text": "Somos {brand}. Cuando algo malo te pasa en New York, no tienes que enfrentarlo solo. Hablamos tu idioma, escuchamos tu caso, y te conectamos con un abogado real que puede ayudarte.",
+    "brandHighlight": "Ayúdame Mike"
+  },
+  "Stats": {
+    "recovered": "Recuperados por Nuestros Abogados Aliados",
+    "connected": "Personas Conectadas",
+    "years": "Años Sirviendo a la Comunidad"
+  },
+  "HowItWorks": {
+    "eyebrow": "Cómo Funciona",
+    "title": "Tres pasos. Una sola llamada.",
+    "subtitle": "Sin papeleo. Sin compromiso. Sin complicaciones.",
+    "step1Title": "Llámanos",
+    "step1Desc": "Marca el (347) 526-1359 o escríbenos por WhatsApp. Te atendemos en español o inglés, las 24 horas.",
+    "step2Title": "Evaluamos tu caso",
+    "step2Desc": "Escuchamos lo que pasó. Sin juicios, sin presión. Identificamos qué tipo de abogado necesitas.",
+    "step3Title": "Te conectamos con la firma correcta",
+    "step3Desc": "Te ponemos en contacto con un abogado aliado con licencia en New York, especializado en tu tipo de caso."
+  },
+  "Services": {
+    "eyebrow": "Tipos de Casos",
+    "title": "Te conectamos según tu situación",
+    "subtitle": "Te conectamos con abogados especializados en estas áreas",
+    "viewAll": "Ver todos los servicios",
+    "carAccidents": {
+      "name": "Accidentes de Carro",
+      "short": "Te conectamos con abogados que defienden a víctimas de accidentes vehiculares en New York.",
+      "long": "Si usted o un ser querido ha sido víctima de un accidente de carro en New York, lo conectamos con abogados con licencia y experiencia luchando contra las compañías de seguros. Ellos manejan el proceso legal para que usted se enfoque en su recuperación. Muchos abogados no cobran hasta ganar el caso."
+    },
+    "workAccidents": {
+      "name": "Accidentes Laborales",
+      "short": "Te conectamos con abogados que defienden los derechos de los trabajadores lesionados.",
+      "long": "Las lesiones en el trabajo pueden ser devastadoras. Ya sea en construcción, fábricas, restaurantes u oficinas, usted tiene derechos. Lo conectamos con abogados que pueden ayudarle a presentar su reclamo."
+    },
+    "medicalMalpractice": {
+      "name": "Mala Práctica Médica",
+      "short": "Te conectamos con abogados especializados en casos de negligencia médica.",
+      "long": "Cuando los profesionales médicos cometen errores, las consecuencias pueden ser graves. Lo conectamos con abogados que investigan a fondo cada caso y trabajan con expertos médicos para construir un caso sólido."
+    },
+    "slipAndFall": {
+      "name": "Caídas (Slip & Fall)",
+      "short": "Te conectamos con abogados para casos de accidentes por condiciones peligrosas en propiedades.",
+      "long": "Las caídas por pisos mojados, aceras rotas, escaleras peligrosas o mala iluminación son más comunes de lo que piensa. Lo conectamos con abogados que pueden ayudarle a presentar su caso."
+    },
+    "liens": {
+      "name": "Liens",
+      "short": "Te conectamos con abogados expertos en gestión de liens médicos y legales.",
+      "long": "Los liens médicos y legales pueden complicar tu caso. Lo conectamos con abogados que negocian con hospitales, médicos y aseguradoras para gestionar estos liens correctamente."
+    }
+  },
+  "Attorneys": {
+    "eyebrow": "Abogados Aliados",
+    "title": "Conoce a las firmas con las que trabajamos",
+    "subtitle": "Firmas con licencia y experiencia comprobada en lesiones personales",
+    "viewAll": "Ver todos los abogados",
+    "gabriel": {
+      "name": "Gabriel Law",
+      "role": "Lesiones Personales · ES · EN · RU · KO",
+      "tag": "$500M+ Recuperados",
+      "bio": "Firma líder en lesiones personales en New York con más de $500 millones recuperados para sus clientes. Equipo multilingüe que atiende en español, inglés, ruso y coreano.",
+      "specs": ["Autos", "Caídas", "Construcción"]
+    },
+    "koval": {
+      "name": "Koval & Associates",
+      "role": "Mark I. Koval, Esq. · Brooklyn Law · ES · EN",
+      "tag": "No Cobramos Hasta Ganar el Caso",
+      "bio": "Dirigida por Mark I. Koval, Esq. (Brooklyn Law). Atención personal en cada caso con política de no cobrar hasta ganar el caso.",
+      "specs": ["Autos", "Caídas", "Lesiones"]
+    },
+    "tantleff": {
+      "name": "Tantleff & Kreinces",
+      "role": "Mala Práctica · Brooklyn y Mineola · EN",
+      "tag": "30+ Años de Experiencia",
+      "bio": "Más de 30 años de experiencia en mala práctica médica. Oficinas en Brooklyn y Mineola atendiendo casos complejos de negligencia médica.",
+      "specs": ["Mala Praxis", "Premisas", "Productos"]
+    },
+    "guzman": {
+      "name": "Guzman & Miller",
+      "role": "Compensación Laboral y Discapacidad · ES · EN",
+      "tag": "Líderes en Long Island",
+      "bio": "Líderes en compensación laboral y discapacidad del Seguro Social en Long Island. Atención bilingüe español/inglés.",
+      "specs": ["Workers Comp", "SS Disability", "Construcción"]
+    }
+  },
+  "Coverage": {
+    "eyebrow": "Cobertura",
+    "title": "Servimos a Todo New York",
+    "subtitle": "Presencia local en los 4 condados principales",
+    "viewAll": "Ver todas las áreas",
+    "manhattan": {
+      "name": "Manhattan",
+      "neighborhoods": "Midtown · Harlem · Washington Heights · Lower East Side",
+      "long": "Oficinas y abogados aliados con presencia activa en el corazón de Manhattan. Atendemos casos en Midtown, Harlem, Lower East Side, Washington Heights y todas las comunidades de Manhattan."
+    },
+    "brooklyn": {
+      "name": "Brooklyn",
+      "neighborhoods": "Sunset Park · Bushwick · Williamsburg · Bay Ridge",
+      "long": "Servimos a todas las comunidades de Brooklyn incluyendo Sunset Park, Bushwick, Williamsburg, Bay Ridge y más. Atención disponible en español."
+    },
+    "queens": {
+      "name": "Queens",
+      "neighborhoods": "Jackson Heights · Corona · Flushing · Astoria · Jamaica",
+      "long": "Queens es el borough más diverso del mundo, y hablamos su idioma. Atendemos Jackson Heights, Corona, Flushing, Astoria, Jamaica y todas las comunidades de Queens."
+    },
+    "bronx": {
+      "name": "Bronx",
+      "neighborhoods": "Mott Haven · Fordham · Hunts Point · Riverdale",
+      "long": "Presencia fuerte en el Bronx. Atendemos Mott Haven, Fordham, Hunts Point, Riverdale y todas las comunidades del Bronx."
+    }
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonios",
+    "title": "Lo que dicen quienes nos llamaron",
+    "items": [
+      {
+        "text": "Después de mi accidente de carro, no sabía qué hacer. Ayúdame Mike me conectó rápido con un abogado que me guió en cada paso.",
+        "author": "María G.",
+        "case": "Accidente de Carro — Brooklyn"
+      },
+      {
+        "text": "Me conectaron con un abogado excelente en tiempo récord. El proceso fue fácil y rápido.",
+        "author": "Carlos R.",
+        "case": "Accidente Laboral — Queens"
+      },
+      {
+        "text": "Gracias a Ayúdame Mike encontré un abogado especializado para mi caso de mala práctica médica. Muy recomendado.",
+        "author": "Ana M.",
+        "case": "Mala Práctica Médica — Manhattan"
+      },
+      {
+        "text": "Tuve un caso de slip and fall y no sabía a quién acudir. Ayúdame Mike me conectó con un abogado que entendió mi situación.",
+        "author": "José D.",
+        "case": "Caída — Bronx"
+      },
+      {
+        "text": "Profesionales, atentos y rápidos. Me sentí escuchado desde el primer momento.",
+        "author": "Luz P.",
+        "case": "Accidente Laboral — Manhattan"
+      }
+    ]
+  },
+  "FAQ": {
+    "eyebrow": "Preguntas Frecuentes",
+    "title": "¿Tienes dudas? Las resolvemos.",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta llamar a Ayúdame Mike?",
+        "a": "Nada. Nuestro servicio de conexión es completamente gratuito y sin compromiso. Solo te ponemos en contacto con un abogado aliado para que evalúe tu caso."
+      },
+      {
+        "q": "Si llamo, ¿tengo que contratar a un abogado?",
+        "a": "No. La llamada y la evaluación inicial son solo para entender tu situación. Tú decides libremente si quieres seguir adelante con el abogado al que te conectamos."
+      },
+      {
+        "q": "¿Cuánto tiempo tengo para reclamar después de un accidente?",
+        "a": "En New York existen plazos legales para presentar una demanda según el tipo de caso. En accidentes de carro y caídas generalmente tienes 3 años, pero cada caso es diferente. Entre más rápido llames, mejor podrá actuar el abogado."
+      },
+      {
+        "q": "¿Hablan español?",
+        "a": "Sí. Te atendemos completamente en español. Además, trabajamos con firmas de abogados aliadas que también ofrecen atención en español para que tu caso sea manejado en tu idioma."
+      },
+      {
+        "q": "¿Qué pasa si el accidente fue parcialmente mi culpa?",
+        "a": "En New York puedes presentar un reclamo aunque hayas tenido parte de responsabilidad. Llámanos para que un abogado evalúe tu caso específico."
+      },
+      {
+        "q": "¿Ayúdame Mike es un bufete de abogados?",
+        "a": "No. Ayúdame Mike no es un bufete de abogados. Somos un puente que te conecta con firmas de abogados reales, con licencia activa en el estado de Nueva York, que pueden evaluar y llevar tu caso."
+      }
+    ]
+  },
+  "Urgency": {
+    "eyebrow": "Tiempo Importa",
+    "titleStart": "En New York tienes un",
+    "titleAccent": "plazo limitado",
+    "titleEnd": "para presentar tu caso.",
+    "text": "Las leyes de New York establecen plazos estrictos para reclamar después de un accidente. Cada día que pasa puede afectar tu caso. No esperes — llámanos hoy y deja que un abogado evalúe tu situación."
+  },
+  "FinalCTA": {
+    "titleStart": "¿Listo para hablar con un",
+    "titleAccent": "abogado real",
+    "titleEnd": "?",
+    "subtitle": "Una llamada. Sin papeleo. Sin compromiso."
+  },
+  "Footer": {
+    "disclaimer": "Aviso importante: Ayúdame Mike no es un bufete de abogados y Mike no es un abogado con licencia en el estado de Nueva York. Nuestro único servicio es conectarte de forma rápida con abogados reales, con licencia y experiencia, que pueden evaluar tu caso de accidente, lesión personal u otro asunto legal. No ofrecemos asesoría ni representación legal. Los resultados varían según cada caso y no están garantizados. Contactarnos por teléfono, mensaje o formulario no crea una relación abogado-cliente; dicha relación solo se establece cuando firmas un acuerdo directamente con el abogado.",
+    "copyright": "© 2026 Ayúdame Mike. Todos los derechos reservados."
+  },
+  "Pages": {
+    "services": {
+      "title": "Tipos de Casos que Manejamos",
+      "subtitle": "Te conectamos con abogados especializados para tu tipo de caso. Selecciona uno para ver más detalle."
+    },
+    "attorneys": {
+      "title": "Abogados Aliados",
+      "subtitle": "Firmas con licencia y experiencia comprobada en lesiones personales en New York."
+    },
+    "coverage": {
+      "title": "Cobertura en Todo New York",
+      "subtitle": "Presencia local en los 4 condados principales. Selecciona tu área."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Todo lo que necesitas saber antes de llamar."
+    },
+    "about": {
+      "title": "Sobre Ayúdame Mike",
+      "subtitle": "Quiénes somos y por qué hacemos lo que hacemos."
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "subtitle": "Tres pasos. Una sola llamada. Sin complicaciones."
+    }
+  }
+}
